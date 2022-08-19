@@ -1,0 +1,12 @@
+### 상품 등록(admin)
+POST http://localhost:3000/product
+Content-Type: application/json
+
+{
+    "productImage": "asdf.img",
+    "productName": "싱싱한 자두",
+    "price": 7000,
+    "desc": "꿀자두",
+    "category": "과일"
+}
+
