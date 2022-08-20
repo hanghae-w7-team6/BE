@@ -45,7 +45,7 @@ const getAllProduct = async (req, res) => {
 };
 
 // 상품 상세 조회
-const getdetail = async (req, res) => {
+const getDetail = async (req, res) => {
   try {
     const { productId } = req.params;
     const detailProduct = await Product.findOne({
@@ -97,6 +97,6 @@ module.exports = {
   postProduct,
   getAllProduct,
   deleteProduct,
-  getdetail,
+  getDetail,
   getCategory,
 };

@@ -25,8 +25,8 @@ const getCart = async (req, res) => {
 const postCart = async (req, res) => {
   try {
     const { userId } = res.local.user;
-    const { productId } = req.params;  // 여기에 cartId인지?
-    const { productImage, productName, price, quantity, desc, category, delivery } = req.body;
+    const { productId } = req.params;
+    const { quantity } = req.body;
 
     const existCart = await Cart.findOne({
       where: {
@@ -38,16 +38,10 @@ const postCart = async (req, res) => {
     if (existCart) {
       existCart.quantity = quantity;
       await existCart.save();
+
     } else {
       await Cart.create({
-        productId,
-        productImage,
-        productName,
-        price,
         quantity,
-        desc,
-        category,
-        delivery,
       });
     }
     res
