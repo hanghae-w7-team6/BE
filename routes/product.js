@@ -3,13 +3,13 @@ const router = express.Router();
 const {
     getAllProduct,
     getCategory,
-    getdetail,
+    getDetail,
     postProduct,
     deleteProduct,
 } = require("../controllers/product.controller");
 
 router.route("/").post(postProduct).get(getAllProduct);
-router.route("/:productId").get(getdetail).delete(deleteProduct);
+router.route("/:productId").get(getDetail).delete(deleteProduct);
 router.route("/search/:category").get(getCategory);
 
 module.exports = router;
