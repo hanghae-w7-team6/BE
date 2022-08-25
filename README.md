@@ -22,7 +22,7 @@
 - 협업 도구 : Git, Slack, Notion
 
 팀 SA(노션)
-https://www.notion.so/9e971722fa9641c7b56324c50786cacc?v=8a53fa492b474a42997119fdd9cdcb92
+(https://www.notion.so/jinhahyung/8-6-8f48aba9cde7444a872b942a3e5b1207)
 
 
 
