@@ -22,7 +22,8 @@
 - 협업 도구 : Git, Slack, Notion
 
 
-<hr> ⭐️개발기간
+<hr> 
+### ⭐️개발기간
 2022년 8월 19일 ~ 2022년 8월 25일(1주)
 
 
@@ -64,9 +65,9 @@
 ```
 <hr>
 
-### ERD
+### ⭐️ERD
 
-<img src="https://user-images.githubusercontent.com/71807433/186587192-337b58a2-9b71-4b6b-b2d4-2fe3b0dce29f.png" width="600" height="800"/>
+<img src="https://user-images.githubusercontent.com/71807433/186587192-337b58a2-9b71-4b6b-b2d4-2fe3b0dce29f.png" width="600" height="700"/>
 
 
 
