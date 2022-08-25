@@ -18,7 +18,7 @@
 - 개발 인원 : 프론트(React) 3명, 백엔드(Node.js) 2명
 - 개발 환경 : Node.js 16.17.0 Express  
 - 배포 환경 : AWS EC2
-- 데이터베이스 : MySQL 8.0.29 (AWS RDS)
+- 데이터베이스 : MySQL 8.0.28 (AWS RDS)
 - 협업 도구 : Git, Slack, Notion
 
 <hr>
