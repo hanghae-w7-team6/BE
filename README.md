@@ -21,6 +21,9 @@
 - 데이터베이스 : MySQL 8.0.28 (AWS RDS)
 - 협업 도구 : Git, Slack, Notion
 
+팀 SA(노션)
+https://www.notion.so/9e971722fa9641c7b56324c50786cacc?v=8a53fa492b474a42997119fdd9cdcb92
+
 
 
 <hr> 
