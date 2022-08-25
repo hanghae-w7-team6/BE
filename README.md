@@ -5,7 +5,7 @@
 ### 참여자
 
 - @swh95 - [GitHub](https://github.com/WHS95) / [Tistory](https://coding-daily.tistory.com/)
-- @ - [GitHub](https://github.com/codeing999) / [Velog](https://velog.io/@mero)
+- @hemi333 - [GitHub](https://github.com/hemi333) / [Tistory](https://bo-hyemi-an.tistory.com/)
 
 
 <hr>
