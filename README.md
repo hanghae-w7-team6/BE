@@ -1,6 +1,6 @@
 # 항해 7주차 클론코딩 (마켓 컬리)
 
-![image](https://user-images.githubusercontent.com/71807433/186592098-e43c38bf-a24f-4d66-b5f6-a53e15e3d451.png)
+<img src="https://user-images.githubusercontent.com/71807433/186592098-e43c38bf-a24f-4d66-b5f6-a53e15e3d451.png" width="200" height="400"/>
 
 
 <hr>
