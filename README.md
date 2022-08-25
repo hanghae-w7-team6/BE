@@ -5,17 +5,27 @@
 
 <hr>
 
-### 참여자
+### ⭐️참여자
 
 - @swh95 - [GitHub](https://github.com/WHS95) / [Tistory](https://coding-daily.tistory.com/)
 - @hemi333 - [GitHub](https://github.com/hemi333) / [Tistory](https://bo-hyemi-an.tistory.com/)
 
+<hr>
+
+### ⭐️프로젝트 개요
+
+- 프로젝트명 : 마켓컬리 클론코딩
+- 개발 인원 : 프론트(React) 3명, 백엔드(Node.js) 2명
+- 개발 환경 : Node.js 16.17.0 Express  
+- 배포 환경 : AWS EC2
+- 데이터베이스 : MySQL 8.0.29 (AWS RDS)
+- 협업 도구 : Git, Slack, Notion
 
 <hr>
 
-### 소개글
+### ⭐️구현된 기능들
 
-클론코딩 구현 기능들 
+마켓컬리가 가지고 있는 기능들을 최대한 따라서 구현을 해보았습니다. 
 
 1. 회원가입
 2. 회원가입 이메일 인증
@@ -26,7 +36,7 @@
 
 <hr>
 
-### 모듈 리스트
+### ⭐️모듈 리스트
 
 ```json
 "devDependencies": {
@@ -51,7 +61,7 @@
 
 ### ERD
 
-![image](https://user-images.githubusercontent.com/71807433/186587192-337b58a2-9b71-4b6b-b2d4-2fe3b0dce29f.png)
+<img src="https://user-images.githubusercontent.com/71807433/186587192-337b58a2-9b71-4b6b-b2d4-2fe3b0dce29f.png" width="600" height="400"/>
 
 
 
